@@ -1,8 +1,5 @@
 Mini Platform with Auth & Products
 
-This test must be done only in native PHP (without a framework).
-If you have any questions, feel free to ask me.
-
 🎯Goal
 Create a small web application with:
     • An authentication system (login / logout).
@@ -31,14 +28,3 @@ Product model:
     • Price
     • Stock
     • Image (one main image only)
-📦 Deliverable
-A .zip folder containing:
-    • The project source code
-    • A README.md file explaining:
-        ◦ How to install the project
-        ◦ How to configure the database
-        ◦ How to run the application
-👉 The goal is not to create a perfect project, but to evaluate:
-    • Your code organization
-    • Your technical choices
-    • The clarity of the README
